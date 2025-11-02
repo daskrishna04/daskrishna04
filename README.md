@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daskrishna04&label=Profile%20views&color=0e75b6&style=flat" alt="daskrishna04" /> </p>
 
-- 🌱 I’m currently learning **Data Science, AI, Android Development**
+- 🌱 I’m currently learning **Java Full Stack Development**
 
 - 👨‍💻 All of my projects are available at https://linktr.ee/krishnadas_04
 
